@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SINGHSHEKHAWAT1651786
+- 👋 Hi, I’m GOVIND SINGH SHEKHAWAT
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning PHP DEVELOPER
 - 💞️ I’m looking to collaborate on  
