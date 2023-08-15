@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GOVIND SINGH SHEKHAWAT
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning PHP DEVELOPER
+- 🌱 I’m currently learning  DEVELOPER
 - 💞️ I’m looking to collaborate on  
 - 📫 How to reach me ...
 
